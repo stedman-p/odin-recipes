@@ -1,0 +1,15 @@
+/* body {
+  text-align: center;
+} */
+
+h1, h2, h3, h4 {
+  text-align: center;
+}
+
+.content {
+  max-width: 550px;
+  margin: auto;
+  border: 2px;
+  border-color: black;
+  padding: 8px;
+}
