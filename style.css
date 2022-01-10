@@ -1,15 +1,24 @@
-/* body {
-  text-align: center;
-} */
+body {
+  background-color: #14110f;
+}
 
 h1, h2, h3, h4 {
+  text-align: center;
+  font-family: 'Courier New';
+}
+
+img {
   text-align: center;
 }
 
 .content {
-  max-width: 550px;
+  background-color: #d7af70;
+  max-width: 570px;
   margin: auto;
   border: 2px;
   border-color: black;
-  padding: 8px;
+  padding: 16px;
+  /* padding-left: 16px; */
+  /* padding-bottom: 16px; */
+  font-family: "Courier New";
 }
