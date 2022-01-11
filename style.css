@@ -1,5 +1,5 @@
 body {
-  background-color: #14110f;
+  background-color: #262626;
 }
 
 h1, h2, h3, h4 {
@@ -12,7 +12,7 @@ img {
 }
 
 .content {
-  background-color: #d7af70;
+  background-color: #ffffff;
   max-width: 570px;
   margin: auto;
   border: 2px;
