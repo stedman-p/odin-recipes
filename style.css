@@ -8,7 +8,9 @@ h1, h2, h3, h4 {
 }
 
 img {
-  text-align: center;
+  margin: auto;
+  display: block;
+  box-shadow: 5px 5px 5px grey;
 }
 
 .content {
